@@ -4,22 +4,22 @@
 The purpose of this analysis was to understand machine learning, using python, and how you can develop a model to predict instances such as credit risk.
 
 ## Results:
-- Using the undersampling model, the balanced accuracy score was (insert) and the precision score was (insert)
+- Using the undersampling model, the balanced accuracy score was .54 and the precision score was (insert)
 ![undersampling](images/undersampling.png)
 
-- SMOTE Oversampling method, the balanced accuracy score was (insert) and the precision score was (insert)
+- SMOTE Oversampling method, the balanced accuracy score was .66 and the precision score was (insert)
 ![SMOTE](images/SMOTE_Oversampling.png)
 
-- Using the Naive Oversampling, the balanced accuracy score was (insert) and the precision score was (insert)
+- Using the Naive Oversampling, the balanced accuracy score was .67 and the precision score was (insert)
 ![Naive](images/Naive_oversampling.png)
 
-- Using the Easy Ensemble model, the balanced accuracy score was (insert) and the precision score was (insert)
+- Using the Easy Ensemble model, the balanced accuracy score was .93 and the precision score was (insert)
 ![Easy_Ensemble](images/Easy_Ensemble.png)
 
-- Balanced Random Forest method, the balanced accuracy score was (insert) and the precision score was (insert)
+- Balanced Random Forest method, the balanced accuracy score was .79 and the precision score was (insert)
 ![Balanced_Random](images/Balanced_Random_Forest.png)
 
-- Using the Combination Sampling method, the balanced accuracy score was (insert) and the precision score was (insert)
+- Using the Combination Sampling method, the balanced accuracy score was .67 and the precision score was (insert)
 ![Combination](images/Combination_Sampling.png)
 
 
