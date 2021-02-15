@@ -11,7 +11,7 @@ The purpose of this analysis was to understand machine learning, using python, a
 ![SMOTE](images/SMOTE_Oversampling.png)
 
 - Using the Naive Oversampling, the balanced accuracy score was (insert) and the precision score was (insert)
-![Naive](images/Navie_oversampling.png)
+![Naive](images/Naive_oversampling.png)
 
 - Using the Easy Ensemble model, the balanced accuracy score was (insert) and the precision score was (insert)
 ![Easy_Ensemble](images/Easy_Ensemble.png)
